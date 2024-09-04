@@ -1,0 +1,3 @@
+1;Pera;Peric;pera;pera;Male;01.10.2002;Customer
+2;Jovana;Jovanovic;jovana;jj123;Female;15.05.2014;Manager
+3;Stojanka;Novakovic;st.nov;100ja;Female;24.02.2000;Administrator
